@@ -1,0 +1,7 @@
+Total number of months included in the dataset: 86
+Net total amount of "Profit/Losses" over the entire period: $22564198 
+Total changes in "Profit/Losses" over the entire period: $-706444 
+Average change in "Profit/Losses": $-8311.11 
+The greatest increase in profits occurred on Mar-13 with an amount of $1141840 
+The greatest decrease in profits occurred on Dec-10 with an amount of $-1194133
+Total number of votes cast: 369797
